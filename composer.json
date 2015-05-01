@@ -1,6 +1,7 @@
 {
     "name": "emikhalev/simple-xlsx",
     "type": "library",
+    "version": "1.0.0",
     "description": "Generate XLSX files simple and fast",
     "license": "MIT",
     "require": {
