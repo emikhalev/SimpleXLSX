@@ -8,3 +8,13 @@ Generate XLSX files simple and fast
 
 ## Usage
 See examples
+
+## Composer
+[SimpleXLSX] https://packagist.org/packages/emikhalev/simple-xlsx
+```json
+{
+    "require": {
+	"emikhalev/simple-xlsx": "dev-master"
+    }
+}
+```
