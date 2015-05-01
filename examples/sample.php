@@ -2,10 +2,10 @@
 
 <?php
 
-require_once(__DIR__.'/../simpleXLSX/SimpleXLSX.php');
-require_once(__DIR__.'/../simpleXLSX/SimpleXLSXStyle.php');
-require_once(__DIR__.'/../simpleXLSX/SimpleXLSXWorkbook.php');
-require_once(__DIR__.'/../simpleXLSX/SimpleXLSXWorksheet.php');
+require_once(__DIR__.'/../src/SimpleXLSX.php');
+require_once(__DIR__.'/../src/SimpleXLSXStyle.php');
+require_once(__DIR__.'/../src/SimpleXLSXWorkbook.php');
+require_once(__DIR__.'/../src/SimpleXLSXWorksheet.php');
 
 
 $xlsx = new SimpleXLSX();
