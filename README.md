@@ -10,7 +10,7 @@ Generate XLSX files simple and fast
 See examples
 
 ## Composer
-[SimpleXLSX] https://packagist.org/packages/emikhalev/simple-xlsx
+https://packagist.org/packages/emikhalev/simple-xlsx
 ```json
 {
     "require": {
