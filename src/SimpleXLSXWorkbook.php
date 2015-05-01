@@ -6,7 +6,7 @@
  * Time: 15:01
  * To change this template use File | Settings | File Templates.
  */
-namespace emikhalev/SimpleXLSX;
+namespace emikhalev\SimpleXLSX;
 
 class SimpleXLSXWorkbook
 {
@@ -154,8 +154,8 @@ class SimpleXLSXWorkbook
         $styles = $this->makeStyles();
 
         // Zipping
-        $zip = new ZipArchive();
-        if ( $zip->open($filename, ZIPARCHIVE::CREATE)!==TRUE )
+        $zip = new \ZipArchive();
+        if ( $zip->open($filename, \ZIPARCHIVE::CREATE)!==TRUE )
         {
             return false;
         }

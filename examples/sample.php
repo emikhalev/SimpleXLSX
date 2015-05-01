@@ -7,8 +7,9 @@ require_once(__DIR__.'/../src/SimpleXLSXStyle.php');
 require_once(__DIR__.'/../src/SimpleXLSXWorkbook.php');
 require_once(__DIR__.'/../src/SimpleXLSXWorksheet.php');
 
+use emikhalev\SimpleXLSX;
 
-$xlsx = new SimpleXLSX();
+$xlsx = new SimpleXLSX\SimpleXLSX();
 $book = $xlsx->createWorkbook();
 $sheet = $book->createWorksheet();
 
