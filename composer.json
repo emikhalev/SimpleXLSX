@@ -1,5 +1,5 @@
 {
-    "name": "eugene/simple-xlsx",
+    "name": "emikhalev/simple-xlsx",
     "type": "library",
     "description": "Generate XLSX files simple and fast",
     "license": "MIT",
@@ -14,7 +14,7 @@
     ],
     "autoload": {
 	"psr-4": {
-	    "eugene\\simple-xlsx\\": "src/"
+	    "emikhalev\\simple-xlsx\\": "src/"
 	}
     }
 }
