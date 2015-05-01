@@ -6,6 +6,7 @@
  * Time: 15:03
  * To change this template use File | Settings | File Templates.
  */
+namespace emikhalev\SimpleXLSX;
 
 class SimpleXLSXStyle
 {

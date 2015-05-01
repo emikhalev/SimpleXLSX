@@ -15,7 +15,7 @@
     ],
     "autoload": {
 	"psr-4": {
-	    "emikhalev\\simple-xlsx\\": "src/"
+	    "emikhalev\\SimpleXLSX\\": "src/"
 	}
     }
 }
