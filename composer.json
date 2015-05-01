@@ -14,7 +14,7 @@
     ],
     "autoload": {
 	"psr-4": {
-	    "eugene\\simple-xlsx": "src/"
+	    "eugene\\simple-xlsx\\": "src/"
 	}
     }
 }
